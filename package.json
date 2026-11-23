@@ -1,0 +1,11 @@
+{
+  "name": "hotel-coursework",
+  "private": true,
+  "scripts": {
+    "spell": "cspell \"README.md\" \"docs/**/*.md\" \"hotel/**/*.py\" \"tests/**/*.py\""
+  },
+  "devDependencies": {
+    "cspell": "8.19.4",
+    "@cspell/dict-ru_ru": "2.3.4"
+  }
+}
