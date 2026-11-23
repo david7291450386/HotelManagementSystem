@@ -56,3 +56,12 @@ Desktop.ini
 
 # macOS
 .DS_Store
+# PostgreSQL local cluster, backups and credentials
+pgdata/
+*.dump
+*.backup
+.pgpass
+pgpass.conf
+
+# JavaScript tooling
+node_modules/

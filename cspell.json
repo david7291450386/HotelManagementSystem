@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en,ru",
+  "import": [
+    "@cspell/dict-ru_ru/cspell-ext.json"
+  ],
+  "words": [
+    "Хачатрян",
+    "Арамович",
+    "ИПС",
+    "SQLAlchemy",
+    "Pydantic",
+    "pytest",
+    "FastAPI",
+    "DBeaver",
+    "mypy",
+    "venv",
+    "docx",
+    "pyproject",
+    "unittest"
+  ]
+}
